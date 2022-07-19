@@ -11,7 +11,5 @@ Some of the latest fuckups are:
 
 ## Codeberg
 
-Full disclosure: I am a member of the Codeberg team, so don't just follow me.
-
 I decided to move all my repos to [Codeberg.org](https://codeberg.org) and delete them from GitHub.
 My GitHub account stays active in order to be able to contribute to projects that decided to or can't move away from GitHub.
