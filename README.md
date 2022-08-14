@@ -1,6 +1,6 @@
 # GitHub Exit
 
-Microsoft has a history of trying to destroy kompeting software (see [EEE-Strategy](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)).
+Microsoft has a history of trying to destroy competing software (see [EEE-Strategy](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)).
 They have improved, but still ignore many values of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) when they think they can make money.
 
 Some of the latest fuckups are:
